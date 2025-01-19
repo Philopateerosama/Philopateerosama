@@ -3,7 +3,7 @@ I'm current studying in computer science college🖥️<br>I'm passionate about 
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)] (https://bsky.app/profile/jimmymaster.bsky.social)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jimmymaster.bsky.social)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)] (https://behance.net/Jimmy Master) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] (https://discord.gg/eng.jimmy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://www.instagram.com/philopateer.osama?igsh=MWI4NGJreTZpcWcxcg==)) 
